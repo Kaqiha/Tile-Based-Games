@@ -1,0 +1,8 @@
+123456789 as tiles
+abcdefghi as repeat
+ABCDEFGHI as dimension
+
+loop:
+a = [1 * first dim]
+b = [a* second]
+a = [b * third]
